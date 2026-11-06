@@ -2,9 +2,7 @@
 
 # Songwright
 
-**github.com/arc09walt**
-
-*Software built by hand in Michigan — a foundry man's tools, guides, and music rooms.*
+*Software built in Michigan — a fellow man's tools, guides, and music rooms.*
 
 Everything here is free (MIT), built one piece at a time, and every consequential press stays the owner's — the guide prepares, points, checks, and receipts.
 
