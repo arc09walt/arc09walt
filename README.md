@@ -20,11 +20,11 @@ A Michigan roadkill-salvage board. Its porch server runs live today on its opera
 
 ### [Music-Room](https://github.com/arc09walt/Music-Room)
 
-The full-band music room. GitHub carries the showcase — the app itself lives on the Amazon Appstore road: $4.99/mo or $39/yr, 7 days free.
+The full-band music room. GitHub carries the showcase — Amazon Appstore placement is pending, its own page will carry the terms when it lands.
 
 ### [Beats](https://github.com/arc09walt/Beats)
 
-The beat room. Public 1.22 — Basic $15 / Artist $25.
+The beat room. Public 1.22 — Front of house is free — special features available. The front of house — the drummer, the house kit, the Music Room core — is free, in full. The special features (the Toy Cabinet, the Workbench, MP3 export) live in the full Music Room app, a separate purchase in-app.
 
 ### [Deep-Diver](https://github.com/arc09walt/Deep-Diver)
 
