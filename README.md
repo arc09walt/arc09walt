@@ -58,4 +58,4 @@ Everything here is free. If something on this shelf earned its keep, tips land o
 
 ---
 
-*If we can't build them the app we can at least show them the road*
+*If we can't build them the app - we can at least show them the road*
